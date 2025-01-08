@@ -1,0 +1,7 @@
+Parameter,Value,Unit,Additional Info
+coke,1500,tons per year,1500000.0 kg
+induction,5700,kw/h,"10 hours/day, 260 days"
+holding,265,kw/h,"24 hours/day, 260 days"
+pig_iron,900,tons per year,900000.0 kg
+scrap,17100,tons per year,17100000.0 kg
+output,12000,tons per year,12000000.0 kg

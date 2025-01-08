@@ -1,0 +1,427 @@
+{SimaPro 9.6.0.1}
+{processes}
+{Date: 2024/12/3}
+{Time: 23:44:26}
+{Project: sand casting foundry version 1}
+{CSV Format version: 9.0.0}
+{CSV separator: Semicolon}
+{Decimal separator: .}
+{Date separator: /}
+{Short date format: yyyy/M/d}
+{Export platform IDs: No}
+{Skip empty fields: No}
+{Convert expressions to constants: No}
+{Selection: Selection (1)}
+{Related objects (system descriptions, substances, units, etc.): Yes}
+{Include sub product stages and processes: No}
+{Skip unused parameters: No}
+{Open project: 'sand casting foundry version 1'}
+{Library 'Ecoinvent 3 - allocation, cut-off by classification - system'}
+{Library 'Ecoinvent 3 - allocation, cut-off by classification - unit'}
+{Library 'EU & DK Input Output Database'}
+{Library 'Industry data 2.0'}
+{Library 'Methods'}
+{Library 'USLCI'}
+
+Process
+
+Category type
+material
+
+Process identifier
+Purdue01000046869234353
+
+Type
+Unit process
+
+Process name
+Iron, sand casted, BCI/US
+
+Status
+Finished
+
+Time period
+Unspecified
+
+Geography
+Unspecified
+
+Technology
+Unspecified
+
+Representativeness
+Unspecified
+
+Multiple output allocation
+Unspecified
+
+Substitution allocation
+Unspecified
+
+Cut off rules
+Unspecified
+
+Capital goods
+Unspecified
+
+Boundary with nature
+Unspecified
+
+Infrastructure
+No
+
+Date
+2011/7/10
+
+Record
+James Littlefield, Franklin Associates, address: 4121 W 83rd St, Suite 108, Prairie Village, KS 66208, tel.: 913-649-2225, email: jlittlefield@fal.com, company: FAL, country: US
+
+Generator
+James Littlefield, Franklin Associates, address: 4121 W 83rd St, Suite 108, Prairie Village, KS 66208, tel.: 913-649-2225, email: jlittlefield@fal.com, company: FAL, country: US
+
+External documents
+
+
+Literature references
+unspecified/2004/Vehicle Recycling Partnership (VRP), Vehicle Recycling Partners;
+
+Collection method
+
+
+Data treatment
+
+
+Verification
+
+
+Comment
+No co-product allocation for scrap materials that are recycled or reused, all environmental flows for scrap are included in the environmental flows for the product.Important note: although most of the data in the US LCI database has undergone some sort of review, the database as a whole has not yet undergone a formal validation process.Please email comments to lci@nrel.gov.Included processes: Materials entering the plant to product ready for finishing and assembly.Category: Primary Metal ManufacturingSubcategory: Steel Foundries (except Investment)Technology: UnspecifiedVersion: 1.6Energy values: 2Production volume: 0Time period: 2004 - 2004Technology: Unspecified
+
+Allocation rules
+
+
+System description
+U.S. LCI Database;
+
+Products
+Iron, sand casted, BCI/US;kg;1;100;Ferro metals;Metals\Ferro;
+
+Avoided products
+
+Resources
+Sand;;kg;1.13;Undefined;0;0;0;
+Limestone;;kg;0.0767;Undefined;0;0;0;
+Coal, bituminous, 24.8 MJ per kg;;kg;0.125;Undefined;0;0;0;
+
+Materials/fuels
+Electricity, at grid, US, 2000/RNA U;kWh;1.3728;Undefined;0;0;0;
+Natural gas, combusted in industrial boiler/US;m3;0.000199;Undefined;0;0;0;
+Dummy_Metallurgical coke, combusted in industrial boiler/US;kg;0.00022;Undefined;0;0;0;
+Bituminous coal, combusted in industrial boiler/US;kg;0.0796;Undefined;0;0;0;
+Diesel, combusted in industrial boiler/US;l;0.000968;Undefined;0;0;0;
+Gasoline, combusted in equipment/US;l;0.000297;Undefined;0;0;0;
+Oxygen, liquid, at plant/RNA;kg;0.164;Undefined;0;0;0;
+Dummy_Nitrogen, at plant/US;kg;0.0156;Undefined;0;0;0;
+Dummy_Carbon dioxide, liquid, at plant/US;kg;0.00082;Undefined;0;0;0;
+Dummy_Core wash and paste for aluminum casting/US;kg;0.00988;Undefined;0;0;0;
+Dummy_Adhesives and binders, at plant/US;kg;0.00105;Undefined;0;0;0;
+Dummy_Core additives and catalyst for iron casting/US;kg;0.00141;Undefined;0;0;0;
+Dummy_Release agent, unspecified, at plant/US;kg;0.00052;Undefined;0;0;0;
+Dummy_Curing agent, at plant/US;kg;0.0183;Undefined;0;0;0;
+Dummy_Clay, at mine/US;kg;0.0204;Undefined;0;0;0;
+Dummy_Ceramic filters, at plant/US;kg;0.0003;Undefined;0;0;0;
+Sodium hydroxide, production mix, at plant/RNA;kg;0.00297;Undefined;0;0;0;
+Dummy_Refractory material, unspecified, at plant/US;kg;0.0252;Undefined;0;0;0;
+Dummy_Chemicals, unspecified, used for wastewater treatment/US;kg;0.0011;Undefined;0;0;0;
+Dummy_TEA gas scrubber, at plant/US;kg;0.00085;Undefined;0;0;0;
+Dummy_Shot blast, unspecified/US;kg;0.0109;Undefined;0;0;0;
+Dummy_Oil and grease, at plant/US;kg;0.00201;Undefined;0;0;0;
+Dummy_TEA gas, at plant/US;kg;0.0025;Undefined;0;0;0;
+Pig iron {RER}| market for pig iron | Cut-off, U;kg;0.075;Undefined;0;0;0;
+Dummy_Alloying metals and additives, at plant/US;kg;0.0666;Undefined;0;0;0;
+Iron scrap, sorted, pressed {RoW}| market for iron scrap, sorted, pressed | Cut-off, U;kg;1.425;Undefined;0;0;0;
+
+Electricity/heat
+
+Emissions to air
+Benzene, 1,2,4-trimethyl-;;kg;0.00013;Undefined;0;0;0;
+Benzene;;kg;0.00011;Undefined;0;0;0;
+Chromium compounds;;kg;0.00112;Undefined;0;0;0;
+Copper compounds;;kg;0.00057;Undefined;0;0;0;
+Diisocyanates;;kg;0.000086;Undefined;0;0;0;
+Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-;;kg;0.0000000014;Undefined;0;0;0;
+Ethylene glycol;;kg;0.000089;Undefined;0;0;0;
+Formaldehyde;;kg;0.00013;Undefined;0;0;0;
+Lead compounds;;kg;0.00022;Undefined;0;0;0;
+Manganese compounds;;kg;0.0065;Undefined;0;0;0;
+Mercury compounds;;kg;0.0000000063;Undefined;0;0;0;
+Naphthalene;;kg;0.00013;Undefined;0;0;0;
+Nickel compounds;;kg;0.000022;Undefined;0;0;0;
+1-Methyl-2-pyrrolidinone;;kg;0.00011;Undefined;0;0;0;
+Phenol;;kg;0.00024;Undefined;0;0;0;
+Phosphoric acid;;kg;0.00002;Undefined;0;0;0;
+Toluene;;kg;0.0001;Undefined;0;0;0;
+Triethyl amine;;kg;0.00029;Undefined;0;0;0;
+Xylene;;kg;0.000078;Undefined;0;0;0;
+Zinc compounds;;kg;0.00099;Undefined;0;0;0;
+Phenylisocyanate;;kg;0.00046;Undefined;0;0;0;
+Adipate, bis(2-ethylhexyl)-;;kg;0.00022;Undefined;0;0;0;
+Isocyanic acid;;kg;0.0004;Undefined;0;0;0;
+2-Propanol;;kg;0.00016;Undefined;0;0;0;
+Methanol;;kg;0.00035;Undefined;0;0;0;
+Sulfuric acid;;kg;0.00042;Undefined;0;0;0;
+
+Emissions to water
+Copper, ion;;kg;0.000000009;Undefined;0;0;0;
+Lead (II);;kg;0.0000000056;Undefined;0;0;0;
+Zinc (II);;kg;0.00000023;Undefined;0;0;0;
+Phenol;;kg;0.00000056;Undefined;0;0;0;
+Oils, unspecified;;kg;0.000012;Undefined;0;0;0;
+Cadmium (II);;kg;0.00001;Undefined;0;0;0;
+Chromium (VI);;kg;0.00005;Undefined;0;0;0;
+Chromium, ion;;kg;0.00013;Undefined;0;0;0;
+Nickel (II);;kg;0.00005;Undefined;0;0;0;
+Iron, ion;;kg;0.00025;Undefined;0;0;0;
+Cyanide, amenable;;kg;0.00001;Undefined;0;0;0;
+Cyanide;;kg;0.00005;Undefined;0;0;0;
+Methane, tetrachloro-, CFC-10;;kg;0.000005;Undefined;0;0;0;
+Methane, dichloro-, HCC-30;;kg;0.00013;Undefined;0;0;0;
+1,1,1-Trichloroethane;;kg;0.00013;Undefined;0;0;0;
+Benzene, chloro-;;kg;0.00013;Undefined;0;0;0;
+4-Methyl-2-methoxyphenol;;kg;0.00013;Undefined;0;0;0;
+Cresol;;kg;0.00013;Undefined;0;0;0;
+Nitrobenzene;;kg;0.00013;Undefined;0;0;0;
+Toluene;;kg;0.00013;Undefined;0;0;0;
+Carbon disulfide;;kg;0.00013;Undefined;0;0;0;
+2-Methyl-1-propanol;;kg;0.00013;Undefined;0;0;0;
+CFCs, unspecified;;kg;0.00013;Undefined;0;0;0;
+Methyl ethyl ketone;;kg;0.00126;Undefined;0;0;0;
+Aluminium;;kg;0.000005;Undefined;0;0;0;
+
+Emissions to soil
+
+Final waste flows
+
+Non material emissions
+
+Social issues
+
+Economic issues
+
+Waste to treatment
+Dummy_Recycling, municipal solid wastes, unspecified/US;kg;0.00443;Undefined;0;0;0;
+Dummy_Recycling, wood waste, unspecified/kg/RNA;kg;0.0006;Undefined;0;0;0;
+Dummy_Recycling, cardboard/US;kg;0.00014;Undefined;0;0;0;
+Dummy_Recycling, rubber/US;kg;0.0368;Undefined;0;0;0;
+Dummy_Recycling, baghouse dust, unspecified/US;kg;0.03;Undefined;0;0;0;
+Dummy_Recycling, petroleum based wastes, unspecified/US;kg;0.00045;Undefined;0;0;0;
+Dummy_Recycling, batteries/US;kg;0.00023;Undefined;0;0;0;
+Dummy_Recycling, construction debris, unspecified/US;kg;0.00002;Undefined;0;0;0;
+Dummy_Recycling, biohazard waste, unspecified/US;kg;0.0000024;Undefined;0;0;0;
+Dummy_Disposal, municipal solid wastes, to sanitary landfill/US;kg;0.00437;Undefined;0;0;0;
+Dummy_Disposal, petroleum based wastes, unspecified, to sanitary landfill/US;kg;0.00207;Undefined;0;0;0;
+Dummy_Disposal, corrosive and toxic liquids, unspecified, to sanitary landfill/US;kg;0.000053;Undefined;0;0;0;
+Dummy_Disposal, lead containing waste, to sanitary landfill/US;kg;0.00001;Undefined;0;0;0;
+Dummy_Disposal, contaminated carbon, to sanitary landfill/US;kg;0.000085;Undefined;0;0;0;
+Dummy_Disposal, rubber, to sanitary landfill/US;kg;0.000076;Undefined;0;0;0;
+Dummy_Disposal, baghouse dust, to sanitary landfill/US;kg;0.000014;Undefined;0;0;0;
+Dummy_Disposal, acid pickling waste, to sanitary landfill/US;kg;0.00088;Undefined;0;0;0;
+Dummy_Disposal, grinding residue, to sanitary landfill/US;kg;0.0557;Undefined;0;0;0;
+Dummy_Disposal, resins, unspecified, to sanitary landfill/US;kg;0.00016;Undefined;0;0;0;
+Dummy_Disposal, biohazard waste, to sanitary landfill/US;kg;0.00000072;Undefined;0;0;0;
+Dummy_Disposal, sand, to sanitary landfill/US;kg;1.28;Undefined;0;0;0;
+Dummy_Disposal, sludge, to sanitary landfill/US;kg;0.197;Undefined;0;0;0;
+Dummy_Disposal, empty pails and drums, to sanitary landfill/US;kg;0.000012;Undefined;0;0;0;
+Dummy_Recycling, fluorescent tubes and other mercury-containing wastes/US;kg;0.000019;Undefined;0;0;0;
+Dummy_Recycling, refractory material/US;kg;0.00298;Undefined;0;0;0;
+Dummy_Disposal, refractory material, to sanitary landfill/US;kg;0.00015;Undefined;0;0;0;
+
+Input parameters
+
+Calculated parameters
+
+End
+
+
+System description
+
+Name
+U.S. LCI Database
+
+Category
+Others
+
+Description
+"The U.S. Life Cycle Inventory (LCI) Database is a publicly available database that allows users to objectively review and compare analysis results that are based on similar data collection and analysis methods. The data cover energy, transportation, chemicals, plastics, wood, metals, agricultural products, and some industrial processes.  The data are representative of the U.S. and some data include the U.S. and Canada.  The complete list of all data sets and nomenclature are available from the U.S. LCI Database web site (www.nrel.gov/lci). All products are assigned to categories and subcategories based on the North American Industry Classification System (NAICS, www.census.gov/naics).  The three-digit titles are used for the category names and the six-digit titles are used for the subcategory names.  For inclusion in the SimaPro software, the categories and subcategories have been changed to match those defined by PRé Consultants. The data in the U.S LCI Database has all been reviewed at some level by third parties; however, the database as a whole has not gone through a consistent formal validation process.  A formal review of the entire database will be conducted in the near future. Please be advised that the US LCI library contains ""dummy"" processes. It is advised to use proxy data from other sources to bridge these gaps. The original database download contained errors in nomenclature and many of the known problems have been corrected. Documentation in the US LCI database is limited. This database has been included in SimaPro because it contains value to users, but please proceed with caution and check for ""dummy"" processes when using this database.SUPPORTInformation about the U.S. LCI Database can be found in documentation on the project web site (www.nrel.gov/lci).  Send questions not answered by the documentation to lci@nrel.gov.  TERMS OF USEThese U.S. LCI Database Project data (""Data"") are provided by the National Renewable Energy Laboratory (""NREL""), operated by the Alliance for Sustainable Energy, LLC (""Alliance"") for the U.S. Department Of Energy (""DOE"") under Contract No. DE-AC36-08GO28308.  The United States Government (the ""Government"") retains and the user acknowledges that the Government retains a non-exclusive, paid-up, irrevocable, worldwide license to publish or reproduce the published form of these data, or allow others to do so, for Government purposes.Access to and use of these Data shall impose the following obligations on the user, as set forth in this Agreement.  The user is granted the right, without any fee or cost, to use, copy, modify, alter, enhance and distribute these Data for any purpose whatsoever, provided that this entire notice appears in all copies of the Data.  Any modification, alteration or enhancement of these data shall be identified and documented by the user.  Further, the user agrees to credit the DOE/NREL/Alliance in any publication that results from the use of these Data.  The names DOE/NREL/Alliance, however, may not be used in any advertising or publicity to endorse or promote any products or commercial entities unless specific written permission is obtained from DOE/NREL/Alliance.  The user also understands that DOE/NREL/Alliance is not obligated to provide the user with any support, consulting, training or assistance of any kind with regard to the use of these Data or to provide the user with any updates, revisions or new versions of these Data.YOU AGREE TO INDEMNIFY THE GOVERNMENT AND DOE/NREL/ALLIANCE, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, AND EMPLOYEES AGAINST ANY CLAIM OR DEMAND, INCLUDING REASONABLE ATTORNEYS' FEES, RELATED TO YOUR USE OF THESE DATA.  THESE DATA ARE PROVIDED BY DOE/NREL/ALLIANCE ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE GOVERNMENT OR DOE/NREL/ALLIANCE BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS, USE OR PERFORMANCE OF THESE DATA.NOTICE:This Data is prepared by Alliance, hereinafter the Contractor, with government funds under Contract DE-AC36-08GO28308 (""Contract"") with the Department of Energy (""DOE""). THESE DATA ARE PROVIDED BY THE CONTRACTOR ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE CONTRACTOR OR THE U.S. GOVERNMENT BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS, USE OR PERFORMANCE OF THIS DATA."
+
+Sub-systems
+
+
+Cut-off rules
+"Within the defined boundary of a process, the level of detail of the analysis should be sufficient to reveal all significant environmental effects. Effort was not spent on developing data for materials of negligible significance.  The decision rules for this project are as follows:""	Include all material inputs that have a cumulative total of at least 95% of the inputs to the unit process, by mass; ""	Include all material inputs that have a cumulative total of at least 95% of total energy inputs to the unit process; and""	Include any material, no matter how small its mass or energy contribution, that has significant effects in its extraction, manufacture, use or disposal, is highly toxic, or is classed as hazardous waste.The above percentages served as guides. Rules used in individual data sets may differ, but should be documented to ensure transparency."
+
+Energy model
+The database contains several data sets for energy including primary fuel production, combustion of fuels, fuels as feedstock, and electricity generation.  The primary fuel production models include crude oil, natural gas, anthracite coal, bituminous coal, lignite coal, and uranium.  The crude oil, in refinery data set contains the production of diesel, liquefied petroleum gas, gasoline, residual fuel oil, bitumen, kerosene, petroleum coke, and refinery gas.  Electricity generation data sets are available by fuel type, U.S. grid interconnect and U.S. total.
+
+Transport model
+The database contains several data sets for transportation by truck, rail, barge, ocean freighter, and air craft in the U.S. and North America.
+
+Waste model
+
+
+Other assumptions
+
+
+Other information
+ERRORSIf you think you have discovered an error in a dataset, please contact the analyst responsible for the dataset or lci@nrel.gov.  Please describe the error as detailed as possible in order to help correct the error.QUOTATIONSThe U.S. LCI data shall be quoted according to the requirements included in the Terms of Use.
+
+Allocation rules
+There are instances when a unit process produces multiple product outputs, or co-products. In such cases, only a portion of the input and output flows are attributable to each product. Properly allocating flows in these situations is a significant concern in LCI data development since different allocation methods can lead to quite different LCI results for any given product or process. Every effort has been made to provide unallocated modules. This will allow users to apply allocation methods as they see fit or to undertake sensitivity analysis for different methods.  Where allocation is applied the U.S. LCI Database Project adheres to the ISO 14041 three-step hierarchy for co-product.  More information is available in the U.S. LCI Database Project Development Guidelines (www.nrel.gov/lci/publications.html). 
+
+End
+
+
+Literature reference
+
+Name
+unspecified/2004/Vehicle Recycling Partnership (VRP), Vehicle Recycling Partners
+
+Documentation link
+
+
+Category
+USLCI
+
+Description
+Vehicle Recycling Partnership (VRP) () unspecified. Volume: 0. unspecifiedType: Separate publication First author: Vehicle Recycling Partnership (VRP)Year: 2004Place: unspecifiedVolume: 0
+
+End
+
+Quantities
+Mass;Yes
+Energy;Yes
+Volume;Yes
+
+End
+
+
+Units
+kg;Mass;1;kg
+g;Mass;0.001;kg
+kWh;Energy;3.6;MJ
+l;Volume;0.001;m3
+m3;Volume;1;m3
+MJ;Energy;1;MJ
+ton;Mass;1000;kg
+µg;Mass;0.000000001;kg
+mg;Mass;0.000001;kg
+cm3;Volume;0.000001;m3
+mm3;Volume;0.000000001;m3
+GJ;Energy;1000;MJ
+J;Energy;0.000001;MJ
+kJ;Energy;0.001;MJ
+TJ;Energy;1000000;MJ
+kton;Mass;1000000;kg
+ng;Mass;1.0E-12;kg
+pg;Mass;1.0E-15;kg
+MWh;Energy;3600;MJ
+lb;Mass;0.4535924;kg
+gal*;Volume;0.003785412;m3
+Mtn;Mass;1000000000;kg
+Btu;Energy;0.001055696;MJ
+oz;Mass;0.02834952;kg
+cu.in;Volume;1.638706E-5;m3
+cu.yd;Volume;0.7645549;m3
+tn.sh;Mass;907.1848;kg
+tn.lg;Mass;1016.047;kg
+dm3;Volume;0.001;m3
+kcal;Energy;0.0041855;MJ
+Wh;Energy;0.0036;MJ
+
+End
+
+
+Raw materials
+Coal, bituminous, 24.8 MJ per kg;kg;;Higher heating value (HHV): 26.1 MJ/kgLower heating value (LHV): 24.8 MJ/kg
+Limestone;kg;001317-65-3;Formula: Ca(CO3)
+Sand;kg;014808-60-7;Formula: SiO2 
+
+End
+
+
+Airborne emissions
+1-Methyl-2-pyrrolidinone;kg;000872-50-4;"Formula: C5H9NO Synonyms: 1-Methyl-5-Pyrrolidinone; 1-Methylpyrrolidinone; m-pyrrole; Deuterated N-Methyl-2-Pyrrolidone; Methylpyrrolidone; N-Methyl-2-pyrrolidinone; N-Methylpyrrolidone; NMP"
+2-Propanol;kg;000067-63-0;Formula: C3H8O 
+Adipate, bis(2-ethylhexyl)-;kg;000103-23-1;"Formula: C22H42O4Synonyms: Adipic acid bis (2-ethylhexyl) ester; adipol 2EH; sicol 250; staflex doa; Di(2-ethylhexyl)adipate; Bis(2-ethylhexyl) hexanedioate; Dioctyl Adipate; Hexanedioic acid bis(2-ethylhexyl) ester; Octyl Adipate"
+Benzene;kg;000071-43-2;Formula: C6H6
+Benzene, 1,2,4-trimethyl-;kg;000095-63-6;Formula: C9H12 
+Chromium compounds;kg;007440-47-3;
+Copper compounds;kg;;
+Diisocyanates;kg;;
+Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-;kg;001746-01-6;synonym:  2,3,7,8-tetracdd
+Ethylene glycol;kg;000107-21-1;Formula: C2H6O2 
+Formaldehyde;kg;000050-00-0;Formula: CH2O
+Isocyanic acid;kg;000075-13-8;Formula: CHNO
+Lead compounds;kg;;
+Manganese compounds;kg;008075-39-6;Chemical Formula: Mn 
+Mercury compounds;kg;;
+Methanol;kg;000067-56-1;Formula: CH3OH
+Naphthalene;kg;000091-20-3;Formula: C10H8
+Nickel compounds;kg;008049-31-8;Chemical Formula: Ni 
+Phenol;kg;000108-95-2;Formula: C6H6O
+Phenylisocyanate;kg;000103-71-9;Formula: C7H5NOSynonym: Benzene, isocyanato-
+Phosphoric acid;kg;007664-38-2;Formula: H3O4P 
+Sulfuric acid;kg;007664-93-9;Formula: H2SO4
+Toluene;kg;000108-88-3;Formula: C6H5CH3
+Triethyl amine;kg;000121-44-8;Formula: C6H15N 
+Xylene;kg;001330-20-7;Formula: C6H4(CH3)2
+Zinc compounds;kg;;
+
+End
+
+
+Waterborne emissions
+1,1,1-Trichloroethane;kg;000071-55-6;Formula: C2H3Cl3
+2-Methyl-1-propanol;kg;000078-83-1;"Formula: C4H10OSynonyms: 1-hydroxymethylpropane; 2-Methyl-1-propanol; 2-Methylpropan-1-ol; 2-Methylpropyl Alcohol; Butanol-iso; fermentation butyl alcohol; IBA; i-Butyl alcohol; isobutanol; Isobutyl alcohol; Isobutyl alcohol ; Isopropyl Carbinol; Isopropyl carbitol;"
+4-Methyl-2-methoxyphenol;kg;;
+Aluminium;kg;007429-90-5;Formula: Al
+Benzene, chloro-;kg;000108-90-7;Formula: C6H5Cl
+Cadmium (II);kg;022537-48-0;Formula: Cd2+
+Carbon disulfide;kg;000075-15-0;Formula: CS2
+CFCs, unspecified;kg;;
+Chromium (VI);kg;018540-29-9;Formula: Cr6+
+Chromium, ion;kg;007440-47-3;Formula: Cr
+Copper, ion;kg;007440-50-8;Formula: Cu
+Cresol;kg;001319-77-3;"Formula: C21H24O3 Synonyms: Coal tar acids; Coal tar cresols; Coal tar phenols; Cresylic acid; Crysylol; Hydroxytoluene;  Cresol (mixed isomers); Tricresol; Tricresol "
+Cyanide;kg;000057-12-5;Formula: CN-
+Cyanide, amenable;kg;;
+Iron, ion;kg;007439-89-6;Formula: Fe
+Lead (II);kg;014280-50-3;Formula: Pb2+
+Methane, dichloro-, HCC-30;kg;000075-09-2;Formula: CH2Cl2
+Methane, tetrachloro-, CFC-10;kg;000056-23-5;"Formula: CCl4Synonyms: Benzinoform; carbona; carbon chloride; Carbon tet; Carbon tetrachloride; Carbon tetrachloride ; flukoids; Methane tetrachloride; necatorine; Necatorina; Perchloromethane; R 10; r 10 (refrigerant); Refrigerant R10; tetrachlorocarbon; Tetrachloromethane; tetrafinol; tetraform; tetrasol; univerm; vermoestricid;"
+Methyl ethyl ketone;kg;000078-93-3;"Formula: C4H8OSynonyms: Butanone; Ethyl methyl ketone; methyl acetone; Methyl-ethyl-ketone; Oxobutane"
+Nickel (II);kg;014701-22-5;Formula: Ni2+
+Nitrobenzene;kg;000098-95-3;Formula: C6H5NO2
+Oils, unspecified;kg;;
+Phenol;kg;000108-95-2;Formula: C6H6O
+Toluene;kg;000108-88-3;Formula: C6H5CH3
+Zinc (II);kg;023713-49-7;Formula: Zn2+
+
+End
+
+
+Database Input parameters
+
+End
+
+Database Calculated parameters
+
+End
+
+Project Input parameters
+
+End
+
+Project Calculated parameters
+
+End
