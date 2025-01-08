@@ -1,6 +1,6 @@
 # SimaPro LCA Project
 
-A data collection GUI for processing manual inputs and automatically populating missing fields with validated baseline data. This tool outputs a SimaPro-compatible CSV file that can be imported into SimaPro for life cycle assessment. It is designed specifically for sand casting iron production.
+A data collection GUI for processing manual inputs and populating missing fields with validated baseline data. This tool outputs a SimaPro-compatible CSV file that can be imported into SimaPro for life cycle assessment. It is designed specifically for sand casting iron production.
 
 > **Note:** This project requires the purchase of [SimaPro 9.6.0.1](https://simapro.com/).
 
